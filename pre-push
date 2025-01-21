@@ -1,0 +1,5 @@
+#!/bin/sh
+/Users/neo/.sekrit/bin/sekrit hook pre-push "$@" <&0
+# SEKRIT WARNING MESSAGE
+# DO NOT EDIT
+# IF YOU NEED PRE-PUSH HOOK, WRITE IT IN A NEW pre-push.user FILE
