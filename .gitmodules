@@ -1,0 +1,3 @@
+[submodule "obvious-sub"]
+	path = obvious-sub
+	url = ./obvious-sub
