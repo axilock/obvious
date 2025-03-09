@@ -1,0 +1,7 @@
+#!/bin/bash
+
+NAME=safe-$RANDOM
+echo $NAME > $NAME
+git add .
+git commit -m "Add $NAME"
+
