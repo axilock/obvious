@@ -1,0 +1,1 @@
+Database connection: mysql://admin:secretpass123@localhost:3306/mydb
