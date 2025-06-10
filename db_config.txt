@@ -1,1 +1,1 @@
-# Database configuration
+MONGODB_URI=mongodb+srv://admin:mongodb123@cluster0.example.com/test?retryWrites=true
