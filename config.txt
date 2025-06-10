@@ -1,0 +1,5 @@
+
+[default]
+    AWS_ACCESS_KEY_ID=AKIAW5BDRMFSDUTY2QNH
+    export AWS_SECRET_ACCESS_KEY=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
+    export AWS_IAM_USER=aws-bed2
